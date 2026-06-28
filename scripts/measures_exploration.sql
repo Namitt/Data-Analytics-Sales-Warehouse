@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------
    Measures Exploration — headline business numbers
-   Project: Sales Analytics (built on my data warehouse gold layer)
+   Project: Sales Analytics
 
    Why: a single scorecard of the top-line measures before I slice anything.
    These totals are my reference point — if a later grouped query doesn't sum
