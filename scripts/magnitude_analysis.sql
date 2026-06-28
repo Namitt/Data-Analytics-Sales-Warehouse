@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------
    Magnitude Analysis — totals broken down by dimension
-   Project: Sales Analytics (built on my data warehouse gold layer)
+   Project: Sales Analytics
 
    Why: this is the "where does the volume sit" pass — counts and totals grouped
    by country, gender, category, etc. I add a share-of-total column on the money
