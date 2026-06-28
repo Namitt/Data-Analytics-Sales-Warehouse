@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------
    Dimensions Exploration — what's actually in my dimension tables
-   Project: Sales Analytics (built on my data warehouse gold layer)
+   Project: Sales Analytics
 
    Why: before grouping by country/category in later scripts, I want to know
    the distinct values each dimension holds and how clean they are. My gold
