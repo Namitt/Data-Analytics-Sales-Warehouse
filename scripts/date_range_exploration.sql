@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------
    Date Range Exploration — the time span and age range I'm working with
-   Project: Sales Analytics (built on my data warehouse gold layer)
+   Project: Sales Analytics
 
    Why: every time-series and recency calculation downstream depends on knowing
    the data's date boundaries. I also sanity-check customer ages here, because
