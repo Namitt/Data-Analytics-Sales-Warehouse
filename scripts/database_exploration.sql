@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------
    Database Exploration — structure & metadata checks
-   Project: Sales Analytics (built on my data warehouse gold layer)
+   Project: Sales Analytics
 
    Why this runs first: before any analysis I confirm the gold objects exist,
    check they're views over my silver layer (not standalone tables), and verify
